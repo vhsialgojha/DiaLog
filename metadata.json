@@ -1,0 +1,8 @@
+{
+  "name": "DiaLog - AI Diabetes Companion",
+  "description": "DPDP Compliant AI assistant for diabetes management. Processes health data locally for metabolic tracking, medication adherence, and doctor sharing.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
